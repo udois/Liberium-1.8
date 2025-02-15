@@ -13,3 +13,4 @@ If you have any questions or need assistance, feel free to contact me on Discord
 🔑 Пароль от файла: @udois 🔑
 
 Если у вас есть вопросы или вам нужна помощь, не стесняйтесь обращаться ко мне в Discord по имени пользователя udois_ или в Telegram по @udois_ 💬
+![photo_2025-02-08_17-14-39](https://github.com/user-attachments/assets/e53c7a8a-a1c7-4ba9-8caf-b41a6785626c)
