@@ -11,7 +11,7 @@ GitHub: https://github.com/seaoas/Liberium-1.8.3 🖥️
 If you have any questions or need assistance, feel free to contact me on Discord at udois_ or on Telegram at @udois💬
 
 Join our Discord server where you can find many other different RATs for remote access, tools, and much more. There’s a lot of stuff to explore! 🚀
-👉 https://discord.gg/72WA6FWQ
+👉 https://discord.gg/HysmUy7dt7
 
 🎉 Liberium-1.8 �
 
