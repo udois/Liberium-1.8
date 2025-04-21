@@ -2,7 +2,7 @@
 
 Welcome to the Liberium 1.8 Source Code repository! 📂 The source code for version 1.8.3 is available not only in the Telegram channel but also on GitHub. 📱 For more information, visit:
 
-Telegram: https://t.me/cajbanxx 🌐
+Telegram: https://t.me/astraliscv 🌐
 
 GitHub: https://github.com/seaoas/Liberium-1.8.3 🖥️
 
@@ -17,7 +17,7 @@ Join our Discord server where you can find many other different RATs for remote 
 
 Добро пожаловать в репозиторий исходного кода Liberium 1.8! 📂 Исходный код версии 1.8.3 доступен не только в Telegram-канале, но и на GitHub. 📱 Для получения дополнительной информации посетите:
 
-Telegram: https://t.me/cajbanxx 🌐
+Telegram: https://t.me/astraliscv 🌐
 
 GitHub: https://github.com/seaoas/Liberium-1.8.3 🖥️
 
